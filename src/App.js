@@ -6,6 +6,7 @@ function App() {
   return (
     <Container >
       <LoginPage />
+      {/*추가해야지 <MainPage /> */}
       <GlobalStyle />
     </Container>
   );
